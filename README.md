@@ -10,6 +10,10 @@ Tools used:
 2. Scikit-learn library.
 3. Numpy library
 
+**Procedure**
+1. A dataframe is created from the movie ratings.
+2. KMeans clustering algorithm is trained on the data.
+3. Predictons are made using the model.
 
 **How to run the notebook**
 1. Open the notebook in a Google Colab environment.
