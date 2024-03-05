@@ -1,5 +1,6 @@
 # K_means-01
 
+**Brief**
 
 This is an implementation of the K-means algorithm.
 
