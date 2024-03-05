@@ -13,7 +13,7 @@ Tools used:
 
 **Procedure**
 1. A dataframe is created from the movie ratings.
-2. KMeans clustering algorithm is trained on the data.
+2. K-means (clustering) algorithm is trained on the data.
 3. Predictons are made using the model.
 
 **How to run the notebook**
