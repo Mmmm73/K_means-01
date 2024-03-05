@@ -1,6 +1,5 @@
 # K_means-01
 
-**Brief**
 
 This is an implementation of the K-means algorithm.
 
@@ -10,6 +9,7 @@ Tools used:
 1. Pandas library.
 2. Scikit-learn library.
 3. Numpy library
+
 
 **How to run the notebook**
 1. Open the notebook in a Google Colab environment.
